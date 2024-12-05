@@ -5,15 +5,13 @@
     
     .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(bsit.jpg), url(point.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(41.jpg), url(point.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
 
     }
 
-    
-    
     .navbar{
     width: 1200px;
     height: 75px;
@@ -178,7 +176,7 @@
     .main2 {
         padding-bottom: 1px;
         width: 100%;
-        background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(bsit2.jpg);
+        background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(41.jpg);
         background-position: center;
         background-size: cover;
         height: 100vh;
